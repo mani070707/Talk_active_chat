@@ -1,2 +1,2 @@
 # Talk_active_chat
-link :- https://talk-a-tive-psi.vercel.app/chats
+link :- https://talk-a-tive.herokuapp.com/
